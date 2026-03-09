@@ -30,9 +30,11 @@
 > **Target definition:** DPD ≥ 90 in months on book 7–18 **∪** Settlement **∪** Write-off
 
 <p align="center">
-  <img src="models/roc_and_score_dist.png" width="49%" alt="ROC & Score Distribution" />
-  <img src="models/feature_importance_top25.png" width="49%" alt="Top 25 Feature Importance" />
+  <img src="docs/images/roc_and_score_dist.png" width="49%" alt="ROC and Score Distribution" />
+  <img src="docs/images/feature_importance_top25.png" width="49%" alt="Top 25 Feature Importance" />
 </p>
+
+📌 To enable these charts: run python -m src.model.evaluate, copy the generated PNGs from models/ into docs/images/, and commit them. The docs/images/ folder is safe to commit (only models/*.pkl is gitignored).
 
 ---
 
