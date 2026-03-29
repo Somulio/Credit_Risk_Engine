@@ -1,0 +1,49 @@
+project:
+  name: credit-risk-engine
+  version: 2.0
+  environment: production
+
+data:
+  raw_path: data/raw/
+  interim_path: data/interim/
+  processed_path: data/processed/model_dataset.csv
+  sources:
+    - CUSTOMER_MASTER.csv
+    - LOAN_MASTER_DAILY.csv
+    - APPLICATION_FORM_DATA.csv
+    - CIBIL_RAW_PULL.csv
+    - BUREAU_REFRESH_6M.csv
+    - BANK_STATEMENT_SUMMARY.csv
+    - INCOME_DOCUMENT_PARSED.csv
+    - DPD_HISTORY_MONTHLY.csv
+    - ACCOUNT_PORTFOLIO_MONTHLY.csv
+    - REPAYMENT_TRANSACTIONS.csv
+    - SETTLEMENT_CASES.csv
+    - WRITE_OFF_DATA.csv
+    - DISBURSEMENT_DETAILS.csv
+
+target:
+  column: target_default
+  definition: dpd_90plus_within_12m
+  observation_window_months: 6
+  performance_window_months: 12
+
+model:
+  primary: xgboost
+  fallback: logistic
+  random_state: 42
+  test_size: 0.20
+  val_size: 0.10
+  cv_folds: 5
+
+monitoring:
+  psi_threshold: 0.20
+  ks_minimum: 0.30
+  auc_minimum: 0.70
+  drift_check_frequency_days: 30
+
+logging:
+  level: INFO
+  log_file: logs/app.log
+  max_bytes: 10485760
+  backup_count: 5

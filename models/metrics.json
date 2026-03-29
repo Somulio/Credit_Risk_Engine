@@ -1,0 +1,16 @@
+{
+  "run": "2026-03-07T23:59:55.009361",
+  "train_size": 240,
+  "test_size": 60,
+  "default_rate_pct": 51.6667,
+  "features": 86,
+  "gbm": {
+    "auc": 0.7887,
+    "gini": 0.5773,
+    "cv_mean": 0.8049
+  },
+  "logistic": {
+    "auc": 0.6863,
+    "gini": 0.3726
+  }
+}

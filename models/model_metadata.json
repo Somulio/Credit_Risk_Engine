@@ -1,0 +1,14 @@
+{
+  "model_name": "CreditRiskEngine_GBM_v2",
+  "run": "2026-03-29T13:43:16.698330",
+  "auc": 0.733,
+  "gini": 0.4661,
+  "ks": 0.4127,
+  "features": 86,
+  "train_size": 240,
+  "test_size": 60,
+  "default_rate_pct": 51.6667,
+  "ks_status": "GOOD",
+  "auc_status": "PASS",
+  "psi_status": "STABLE"
+}

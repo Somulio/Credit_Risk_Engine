@@ -1,0 +1,132 @@
+{
+  "model": "GBM",
+  "auc": 0.7887,
+  "gini": 0.5773,
+  "ks": 0.5306,
+  "psi": 1.2822,
+  "psi_status": "RETRAIN",
+  "ks_status": "PASS",
+  "auc_status": "PASS",
+  "confusion_matrix": [
+    [
+      21,
+      8
+    ],
+    [
+      6,
+      25
+    ]
+  ],
+  "lift_table": [
+    {
+      "decile": 1,
+      "n": 6,
+      "bads": 5,
+      "goods": 1,
+      "bad_rate_pct": 83.33,
+      "cum_bad_pct": 16.13,
+      "cum_good_pct": 3.45,
+      "ks": 12.68,
+      "lift": 1.61
+    },
+    {
+      "decile": 2,
+      "n": 6,
+      "bads": 5,
+      "goods": 1,
+      "bad_rate_pct": 83.33,
+      "cum_bad_pct": 32.26,
+      "cum_good_pct": 6.9,
+      "ks": 25.36,
+      "lift": 1.61
+    },
+    {
+      "decile": 3,
+      "n": 6,
+      "bads": 5,
+      "goods": 1,
+      "bad_rate_pct": 83.33,
+      "cum_bad_pct": 48.39,
+      "cum_good_pct": 10.34,
+      "ks": 38.04,
+      "lift": 1.61
+    },
+    {
+      "decile": 4,
+      "n": 6,
+      "bads": 3,
+      "goods": 3,
+      "bad_rate_pct": 50.0,
+      "cum_bad_pct": 58.06,
+      "cum_good_pct": 20.69,
+      "ks": 37.37,
+      "lift": 0.97
+    },
+    {
+      "decile": 5,
+      "n": 6,
+      "bads": 4,
+      "goods": 2,
+      "bad_rate_pct": 66.67,
+      "cum_bad_pct": 70.97,
+      "cum_good_pct": 27.59,
+      "ks": 43.38,
+      "lift": 1.29
+    },
+    {
+      "decile": 6,
+      "n": 6,
+      "bads": 3,
+      "goods": 3,
+      "bad_rate_pct": 50.0,
+      "cum_bad_pct": 80.65,
+      "cum_good_pct": 37.93,
+      "ks": 42.71,
+      "lift": 0.97
+    },
+    {
+      "decile": 7,
+      "n": 6,
+      "bads": 2,
+      "goods": 4,
+      "bad_rate_pct": 33.33,
+      "cum_bad_pct": 87.1,
+      "cum_good_pct": 51.72,
+      "ks": 35.37,
+      "lift": 0.65
+    },
+    {
+      "decile": 8,
+      "n": 6,
+      "bads": 1,
+      "goods": 5,
+      "bad_rate_pct": 16.67,
+      "cum_bad_pct": 90.32,
+      "cum_good_pct": 68.97,
+      "ks": 21.36,
+      "lift": 0.32
+    },
+    {
+      "decile": 9,
+      "n": 6,
+      "bads": 3,
+      "goods": 3,
+      "bad_rate_pct": 50.0,
+      "cum_bad_pct": 100.0,
+      "cum_good_pct": 79.31,
+      "ks": 20.69,
+      "lift": 0.97
+    },
+    {
+      "decile": 10,
+      "n": 6,
+      "bads": 0,
+      "goods": 6,
+      "bad_rate_pct": 0.0,
+      "cum_bad_pct": 100.0,
+      "cum_good_pct": 100.0,
+      "ks": 0.0,
+      "lift": 0.0
+    }
+  ]
+}

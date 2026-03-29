@@ -1,0 +1,53 @@
+score_bands:
+  - band: A1
+    min_score: 750
+    max_score: 900
+    risk_category: Very Low Risk
+    recommended_action: Auto Approve
+    max_ltv: 0.90
+    max_foir: 0.65
+
+  - band: A2
+    min_score: 700
+    max_score: 749
+    risk_category: Low Risk
+    recommended_action: Approve with Standard Terms
+    max_ltv: 0.85
+    max_foir: 0.60
+
+  - band: B1
+    min_score: 650
+    max_score: 699
+    risk_category: Moderate Risk
+    recommended_action: Approve with Enhanced Scrutiny
+    max_ltv: 0.80
+    max_foir: 0.55
+
+  - band: B2
+    min_score: 600
+    max_score: 649
+    risk_category: Elevated Risk
+    recommended_action: Credit Committee Review
+    max_ltv: 0.75
+    max_foir: 0.50
+
+  - band: C
+    min_score: 550
+    max_score: 599
+    risk_category: High Risk
+    recommended_action: Reject or Require Additional Collateral
+    max_ltv: 0.65
+    max_foir: 0.45
+
+  - band: D
+    min_score: 200
+    max_score: 549
+    risk_category: Very High Risk
+    recommended_action: Decline
+    max_ltv: 0.00
+    max_foir: 0.00
+
+pd_to_score:
+  base_score: 800
+  pdo: 20
+  base_odds: 50

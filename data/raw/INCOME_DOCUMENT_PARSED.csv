@@ -1,0 +1,401 @@
+customer_id,declared_income,verified_income,income_deviation_pct,document_type,document_source,mismatch_flag,mismatch_severity,itr_assessed_income,gst_turnover,form26as_tds_amount,verification_status,verification_date,verifier_agency,load_date
+2000000,7028210.08,7265220.89,3.37,Audited Balance Sheet,Third Party Verified,False,Low,5609322.78,,1830745.51,Verified - Positive,2024-01-03,Internal Credit Team,2024-12-31
+2000001,5960334.01,6360194.42,6.71,Pension Certificate,e-Verified,False,Low,5513753.44,34758897.88,1590793.88,Verified - Positive,2024-08-02,Internal Credit Team,2024-12-31
+2000002,11145999.29,12255687.84,9.96,Agriculture Income Proof,Third Party Verified,False,Low,11116670.6,64348385.14,1412129.69,Verified - Positive,2024-07-15,Account Aggregator,2024-12-31
+2000003,4884631.11,4171122.19,-14.61,Form 16,ITD Portal,False,Low,3847911.3,,1371947.15,Verified - Positive,2024-09-24,Internal Credit Team,2024-12-31
+2000004,2805251.75,3622351.98,29.13,Pension Certificate,GST API Pull,True,Medium,2210036.61,17811171.58,409385.38,Verified - Positive,2024-03-01,Internal Credit Team,2024-12-31
+2000005,2177537.46,2296214.7,5.45,ITR - 3 Years,GST API Pull,False,Low,2023495.65,,246927.54,Verified - Positive,2024-10-27,Internal Credit Team,2024-12-31
+2000006,7837125.07,9691432.35,23.66,Agriculture Income Proof,Third Party Verified,True,Medium,6144789.93,,1014940.25,Verified - Positive,2024-03-18,Internal Credit Team,2024-12-31
+2000007,13847464.56,16423173.74,18.6,Form 16,Original Submitted,True,Medium,14176455.97,43456038.83,4042062.11,Verified with Discrepancy,2024-01-20,CERSAI,2024-12-31
+2000008,11714801.24,10084690.94,-13.91,CA Certified P&L,e-Verified,False,Low,12743397.64,,3496480.29,Verified - Positive,2024-05-06,Empanelled CA,2024-12-31
+2000009,10339190.1,11270769.26,9.01,Pension Certificate,e-Verified,False,Low,8575125.1,41262327.25,1226399.73,Unverified,2024-09-05,Empanelled CA,2024-12-31
+2000010,9134859.23,8286573.15,-9.29,Pension Certificate,Digitally Fetched - AA,False,Low,7245321.52,,2594451.98,Verified - Positive,2024-01-08,Internal Credit Team,2024-12-31
+2000011,670902.61,490872.05,-26.83,Form 16,GST API Pull,True,Medium,724821.59,4096025.15,117967.77,Verified - Positive,2024-07-04,Hunter Check,2024-12-31
+2000012,10283660.75,8664853.33,-15.74,Form 16,Original Submitted,True,Medium,9801733.22,,2608775.18,Refer to Credit,2024-08-16,Internal Credit Team,2024-12-31
+2000013,12179713.41,8855565.03,-27.29,Form 16,Digitally Fetched - AA,True,Medium,9759778.53,,2276786.91,Verified - Positive,2024-11-03,Empanelled CA,2024-12-31
+2000014,8299461.19,8154678.1,-1.74,Form 16,Third Party Verified,False,Low,8168642.72,,1662505.69,Verified with Discrepancy,2024-11-10,Internal Credit Team,2024-12-31
+2000015,3554405.1,2572746.63,-27.62,CA Certified P&L,Original Submitted,True,Medium,3103371.67,23467595.33,564798.75,Verified - Positive,2024-12-28,Hunter Check,2024-12-31
+2000016,4004600.39,3007245.29,-24.91,Pension Certificate,Original Submitted,True,Medium,3941033.18,,437516.96,Verified - Positive,2024-08-16,Internal Credit Team,2024-12-31
+2000017,6417054.29,8093626.75,26.13,Salary Slips - 3M,Third Party Verified,True,Medium,5142575.08,22397115.13,1535654.38,Verified - Positive,2024-11-17,Internal Credit Team,2024-12-31
+2000018,1003849.35,1205096.93,20.05,Audited Balance Sheet,Third Party Verified,True,Medium,1096235.8,8350040.46,160986.18,Verified - Positive,2024-06-01,Account Aggregator,2024-12-31
+2000019,6782686.78,5771047.98,-14.92,CA Certified P&L,Digitally Fetched - AA,False,Low,6526801.87,34255149.91,1427339.69,Verified - Positive,2024-03-11,Internal Credit Team,2024-12-31
+2000020,5493482.46,6053300.57,10.19,Bank Statement - Income Proxy,ITD Portal,False,Low,4613791.33,,559728.1,Verified - Positive,2024-06-04,Hunter Check,2024-12-31
+2000021,7503071.23,7155095.36,-4.64,CA Certified P&L,Third Party Verified,False,Low,7706634.56,,786887.84,Verified - Positive,2024-10-31,Internal Credit Team,2024-12-31
+2000022,7926284.82,9545775.58,20.43,Form 16,Original Submitted,True,Medium,7522580.26,,1073594.19,Verified with Discrepancy,2024-04-03,CERSAI,2024-12-31
+2000023,10038063.54,11650101.38,16.06,Form 16,Digitally Fetched - AA,True,Medium,10759130.17,40733107.57,1053904.11,Verified with Discrepancy,2024-05-12,CERSAI,2024-12-31
+2000024,4831988.72,5545844.72,14.77,ITR - 3 Years,e-Verified,False,Low,5127839.7,,1189115.74,Verified - Positive,2024-05-09,Internal Credit Team,2024-12-31
+2000025,12227339.72,10566753.0,-13.58,Pension Certificate,GST API Pull,False,Low,10774637.01,,2176830.3,Verified - Positive,2024-01-09,Internal Credit Team,2024-12-31
+2000026,11086083.3,13181110.68,18.9,Form 16,GST API Pull,True,Medium,11798837.89,,2964050.51,Verified with Discrepancy,2024-10-13,Internal Credit Team,2024-12-31
+2000027,12318828.27,10705558.72,-13.1,Salary Slips - 6M,e-Verified,False,Low,12308977.9,50314259.22,2108657.46,Verified with Discrepancy,2024-03-10,Internal Credit Team,2024-12-31
+2000028,8980652.25,8182650.18,-8.89,ITR - 3 Years,ITD Portal,False,Low,7435289.06,32808485.31,1622698.32,Verification Failed,2024-11-29,Internal Credit Team,2024-12-31
+2000029,13929767.03,12187987.47,-12.5,CA Certified P&L,e-Verified,False,Low,14292632.81,,3140132.88,Verified - Positive,2024-12-07,Internal Credit Team,2024-12-31
+2000030,6351559.19,7524495.64,18.47,Salary Slips - 6M,e-Verified,True,Medium,4984501.82,,1654096.31,Verified - Positive,2024-10-07,Hunter Check,2024-12-31
+2000031,9046537.46,11135631.74,23.09,Audited Balance Sheet,Original Submitted,True,Medium,8458969.96,,2459811.84,Verified with Discrepancy,2024-01-21,Empanelled CA,2024-12-31
+2000032,775035.35,999522.3,28.96,Agriculture Income Proof,e-Verified,True,Medium,804258.12,5739463.63,226096.79,Verified with Discrepancy,2024-11-08,Account Aggregator,2024-12-31
+2000033,10565924.14,9758004.75,-7.65,ITR - 3 Years,Third Party Verified,False,Low,10105851.79,,1059524.84,Verified with Discrepancy,2024-05-15,Internal Credit Team,2024-12-31
+2000034,8750361.26,11060055.16,26.4,CA Certified P&L,Digitally Fetched - AA,True,Medium,7977840.2,,1234238.85,Verified - Positive,2024-11-14,Empanelled CA,2024-12-31
+2000035,14860056.56,18907200.44,27.24,Salary Slips - 3M,e-Verified,True,Medium,15640780.81,102087379.91,2060480.35,Verified - Positive,2024-07-06,Internal Credit Team,2024-12-31
+2000036,14978855.32,18680826.41,24.71,CA Certified P&L,e-Verified,True,Medium,15052098.4,,3923866.75,Verified - Positive,2024-03-02,Internal Credit Team,2024-12-31
+2000037,5481504.85,6143576.33,12.08,Bank Statement - Income Proxy,Original Submitted,False,Low,4550887.5,,1220884.48,Unverified,2024-01-25,Internal Credit Team,2024-12-31
+2000038,13461046.47,17112119.48,27.12,Pension Certificate,e-Verified,True,Medium,12043844.56,60257178.68,3804996.31,Verified - Positive,2024-02-15,Internal Credit Team,2024-12-31
+2000039,12615251.31,11398392.09,-9.65,CA Certified P&L,e-Verified,False,Low,9760963.02,,1948223.4,Verified - Positive,2024-01-27,Hunter Check,2024-12-31
+2000040,4990620.12,5649299.7,13.2,ITR - 3 Years,e-Verified,False,Low,4973690.06,17392733.05,578631.83,Verification Failed,2024-08-30,Empanelled CA,2024-12-31
+2000041,5346764.32,6682989.85,24.99,Salary Slips - 3M,e-Verified,True,Medium,4816005.67,24368727.32,1018488.14,Verified - Positive,2024-06-18,Hunter Check,2024-12-31
+2000042,234253.56,250075.74,6.75,Bank Statement - Income Proxy,e-Verified,False,Low,204697.46,2144901.37,27317.34,Verified - Positive,2024-01-06,Internal Credit Team,2024-12-31
+2000043,4020506.28,4862919.37,20.95,Pension Certificate,e-Verified,True,Medium,3232790.74,,415297.93,Verified - Positive,2024-03-13,Empanelled CA,2024-12-31
+2000044,6446253.74,5428499.49,-15.79,CA Certified P&L,Original Submitted,True,Medium,6498064.23,,657335.42,Verified with Discrepancy,2024-11-22,Internal Credit Team,2024-12-31
+2000045,2504730.41,2176715.75,-13.1,CA Certified P&L,Original Submitted,False,Low,2039750.79,12148767.44,450142.79,Verified with Discrepancy,2024-03-31,CERSAI,2024-12-31
+2000046,1493426.34,1847294.97,23.7,Agriculture Income Proof,Original Submitted,True,Medium,1120488.56,,396935.62,Verified - Positive,2024-11-21,Empanelled CA,2024-12-31
+2000047,3034751.09,2930093.52,-3.45,Agriculture Income Proof,Digitally Fetched - AA,False,Low,3125507.94,,562687.29,Verified with Discrepancy,2024-04-02,Internal Credit Team,2024-12-31
+2000048,915651.7,786003.72,-14.16,ITR - 3 Years,Original Submitted,False,Low,704572.37,2758703.21,113434.81,Verified - Positive,2024-05-03,Empanelled CA,2024-12-31
+2000049,2721447.0,3274327.79,20.32,CA Certified P&L,Original Submitted,True,Medium,2356870.68,,359301.86,Verified with Discrepancy,2024-07-11,Internal Credit Team,2024-12-31
+2000050,5157463.35,5536250.34,7.34,Bank Statement - Income Proxy,ITD Portal,False,Low,4123067.82,,1409930.95,Verified - Positive,2024-09-08,Internal Credit Team,2024-12-31
+2000051,3734295.52,3043538.62,-18.5,Pension Certificate,Original Submitted,True,Medium,3794472.49,,451728.35,Verified with Discrepancy,2024-06-01,Internal Credit Team,2024-12-31
+2000052,12041798.26,13551882.04,12.54,Salary Slips - 6M,Digitally Fetched - AA,False,Low,12497117.06,,3255063.53,Verified - Positive,2024-04-19,Empanelled CA,2024-12-31
+2000053,9407038.91,10454758.05,11.14,Agriculture Income Proof,Original Submitted,False,Low,8738945.25,78168727.2,1224626.06,Verified - Positive,2024-02-17,Internal Credit Team,2024-12-31
+2000054,13761831.74,16544830.64,20.22,CA Certified P&L,Original Submitted,True,Medium,13982173.83,,2268989.23,Verified with Discrepancy,2024-07-28,Empanelled CA,2024-12-31
+2000055,6912620.68,5753343.75,-16.77,Pension Certificate,Original Submitted,True,Medium,6957777.62,,1342892.49,Verified - Positive,2024-05-07,Empanelled CA,2024-12-31
+2000056,4200703.85,3190116.79,-24.06,Salary Slips - 6M,e-Verified,True,Medium,4111492.42,18790509.78,935184.22,Verified - Positive,2024-04-16,Empanelled CA,2024-12-31
+2000057,2366104.4,2898766.72,22.51,Bank Statement - Income Proxy,Digitally Fetched - AA,True,Medium,2467712.92,,281427.17,Verified - Positive,2024-06-26,CERSAI,2024-12-31
+2000058,2874500.39,2590167.43,-9.89,CA Certified P&L,Digitally Fetched - AA,False,Low,2908939.72,,562206.51,Verified with Discrepancy,2024-09-20,Empanelled CA,2024-12-31
+2000059,12289308.38,10565277.18,-14.03,Salary Slips - 3M,Third Party Verified,False,Low,10074319.35,,1354707.52,Verification Failed,2024-09-24,Empanelled CA,2024-12-31
+2000060,9665736.14,8046270.44,-16.75,Bank Statement - Income Proxy,Third Party Verified,True,Medium,8459222.91,,1832716.4,Verified with Discrepancy,2024-04-29,CERSAI,2024-12-31
+2000061,14293153.53,13188511.55,-7.73,ITR - 3 Years,Original Submitted,False,Low,12382692.43,,1582044.75,Verified with Discrepancy,2024-02-09,Internal Credit Team,2024-12-31
+2000062,10596705.29,12594583.32,18.85,Salary Slips - 3M,e-Verified,True,Medium,8604003.77,,1558218.77,Verified - Positive,2024-04-09,Account Aggregator,2024-12-31
+2000063,2215501.48,1851466.54,-16.43,Pension Certificate,Third Party Verified,True,Medium,2245333.76,8067364.1,499156.22,Verified with Discrepancy,2024-03-03,Hunter Check,2024-12-31
+2000064,11750048.51,11007134.86,-6.32,Salary Slips - 6M,Digitally Fetched - AA,False,Low,11661147.54,35903715.96,3165707.49,Verified - Positive,2024-10-07,Internal Credit Team,2024-12-31
+2000065,6883735.66,6407647.65,-6.92,Form 16,e-Verified,False,Low,6747550.89,,917850.82,Verified - Positive,2024-01-20,Empanelled CA,2024-12-31
+2000066,5113942.3,4717636.11,-7.75,Pension Certificate,Third Party Verified,False,Low,4844879.66,42383327.83,1471397.45,Verified - Positive,2024-01-26,CERSAI,2024-12-31
+2000067,14106684.9,17589057.19,24.69,Salary Slips - 6M,e-Verified,True,Medium,14054563.18,,3209676.11,Verification Failed,2024-09-05,Internal Credit Team,2024-12-31
+2000068,5277578.31,6182150.41,17.14,Form 16,Original Submitted,True,Medium,5790092.87,27741302.9,669127.64,Verified - Positive,2024-05-07,CERSAI,2024-12-31
+2000069,13889070.65,14473778.09,4.21,CA Certified P&L,Digitally Fetched - AA,False,Low,14373463.91,122490966.22,1709368.65,Unverified,2024-11-30,Empanelled CA,2024-12-31
+2000070,1443715.98,1710433.22,18.47,Form 16,e-Verified,True,Medium,1216817.01,,327508.46,Refer to Credit,2024-11-04,Hunter Check,2024-12-31
+2000071,14151410.63,15812916.0,11.74,CA Certified P&L,Original Submitted,False,Low,12290271.04,,3674493.43,Verification Failed,2024-05-29,Hunter Check,2024-12-31
+2000072,11188758.44,13725480.62,22.67,Agriculture Income Proof,Digitally Fetched - AA,True,Medium,12064537.6,58087761.19,3207092.69,Verified - Positive,2024-12-14,Internal Credit Team,2024-12-31
+2000073,13173577.63,16555181.68,25.67,CA Certified P&L,Original Submitted,True,Medium,10796607.13,52846344.58,1778939.31,Verified - Positive,2024-03-06,Internal Credit Team,2024-12-31
+2000074,11517947.68,12134151.58,5.35,Bank Statement - Income Proxy,e-Verified,False,Low,11888467.4,,3377828.1,Verified with Discrepancy,2024-12-28,Internal Credit Team,2024-12-31
+2000075,11647285.96,14040604.78,20.55,ITR - 3 Years,Third Party Verified,True,Medium,11470790.05,105946381.2,3309647.89,Verified - Positive,2024-03-23,Hunter Check,2024-12-31
+2000076,1019875.24,894476.32,-12.3,Agriculture Income Proof,Third Party Verified,False,Low,1058975.12,6745300.14,120291.13,Verified - Positive,2024-03-11,Empanelled CA,2024-12-31
+2000077,6159675.83,7778686.26,26.28,Salary Slips - 3M,e-Verified,True,Medium,6099145.94,,1102323.97,Verified with Discrepancy,2024-05-30,Internal Credit Team,2024-12-31
+2000078,8959711.31,10704969.81,19.48,Agriculture Income Proof,Digitally Fetched - AA,True,Medium,7311233.56,,1585287.12,Verified - Positive,2024-11-24,Internal Credit Team,2024-12-31
+2000079,9063282.05,7849613.87,-13.39,Form 16,Original Submitted,False,Low,9785969.36,,2329507.66,Verification Failed,2024-08-04,Internal Credit Team,2024-12-31
+2000080,10276908.4,8674815.59,-15.59,ITR - 3 Years,e-Verified,True,Medium,10307277.15,,3021024.26,Verified - Positive,2024-05-28,Empanelled CA,2024-12-31
+2000081,13608803.31,11477383.07,-15.66,Bank Statement - Income Proxy,Original Submitted,True,Medium,11234619.53,,2815329.29,Unverified,2024-05-17,CERSAI,2024-12-31
+2000082,10659459.21,12987975.55,21.84,Pension Certificate,e-Verified,True,Medium,9327974.26,93702049.26,2202951.97,Verified - Positive,2024-11-07,Empanelled CA,2024-12-31
+2000083,4248220.16,4098539.39,-3.52,Pension Certificate,Third Party Verified,False,Low,3912195.15,,683993.77,Unverified,2024-03-06,Empanelled CA,2024-12-31
+2000084,5464511.68,4359025.85,-20.23,CA Certified P&L,GST API Pull,True,Medium,4336906.0,,719342.67,Verified - Positive,2024-04-14,Account Aggregator,2024-12-31
+2000085,994792.41,997464.27,0.27,Salary Slips - 6M,e-Verified,False,Low,870468.43,,182449.91,Verified with Discrepancy,2024-12-20,Account Aggregator,2024-12-31
+2000086,12944893.78,12807920.32,-1.06,Audited Balance Sheet,Digitally Fetched - AA,False,Low,11001231.5,90233865.98,3461488.03,Verified - Positive,2024-01-31,Hunter Check,2024-12-31
+2000087,4373731.65,3955930.03,-9.55,CA Certified P&L,Third Party Verified,False,Low,4384237.49,,1298189.55,Verified - Positive,2024-02-20,CERSAI,2024-12-31
+2000088,12603282.29,9861265.61,-21.76,CA Certified P&L,Digitally Fetched - AA,True,Medium,12467083.79,41956892.21,3364180.72,Verified with Discrepancy,2024-03-06,Internal Credit Team,2024-12-31
+2000089,13458204.54,10773049.27,-19.95,CA Certified P&L,e-Verified,True,Medium,12449274.06,,2142835.99,Unverified,2024-12-01,Internal Credit Team,2024-12-31
+2000090,6355914.42,7163265.38,12.7,Salary Slips - 6M,Original Submitted,False,Low,5548806.7,24889681.02,1080547.12,Verified - Positive,2024-12-24,Internal Credit Team,2024-12-31
+2000091,12646783.42,15521012.77,22.73,Form 16,GST API Pull,True,Medium,13623400.81,121014920.45,3062487.09,Verified - Positive,2024-09-11,Internal Credit Team,2024-12-31
+2000092,10875106.26,10968729.98,0.86,Salary Slips - 3M,Original Submitted,False,Low,9634315.31,,3115290.07,Verified - Positive,2024-02-28,Account Aggregator,2024-12-31
+2000093,5799989.88,4583093.94,-20.98,ITR - 3 Years,Original Submitted,True,Medium,4989265.11,39053177.07,611044.29,Unverified,2024-12-12,Empanelled CA,2024-12-31
+2000094,13500314.53,11591206.7,-14.14,CA Certified P&L,Digitally Fetched - AA,False,Low,14493159.01,134498618.64,3084698.25,Verified - Positive,2024-11-15,Empanelled CA,2024-12-31
+2000095,2132821.77,2710151.89,27.07,Agriculture Income Proof,Digitally Fetched - AA,True,Medium,1682211.4,,621282.45,Refer to Credit,2024-11-19,Internal Credit Team,2024-12-31
+2000096,10136118.73,8151091.76,-19.58,Audited Balance Sheet,Third Party Verified,True,Medium,9440882.13,,2737459.22,Verified - Positive,2024-09-21,Empanelled CA,2024-12-31
+2000097,3746244.92,4284678.88,14.37,Pension Certificate,e-Verified,False,Low,3173597.66,33054135.29,874731.55,Verified - Positive,2024-04-28,Account Aggregator,2024-12-31
+2000098,6918940.68,5327157.05,-23.01,Form 16,Third Party Verified,True,Medium,6646093.84,,936681.4,Verified with Discrepancy,2024-11-02,Account Aggregator,2024-12-31
+2000099,12925737.01,13885967.37,7.43,Audited Balance Sheet,e-Verified,False,Low,11930775.14,,1668770.25,Unverified,2024-12-24,Internal Credit Team,2024-12-31
+2000100,14090623.39,15166267.57,7.63,Agriculture Income Proof,ITD Portal,False,Low,14838687.56,47267867.82,3426419.44,Verification Failed,2024-08-31,Internal Credit Team,2024-12-31
+2000101,8606479.77,8338635.06,-3.11,Salary Slips - 3M,e-Verified,False,Low,8160898.79,,1055946.55,Verified - Positive,2024-10-27,Internal Credit Team,2024-12-31
+2000102,4618236.91,3720706.93,-19.43,ITR - 3 Years,e-Verified,True,Medium,3699745.86,24373178.6,903140.9,Verified with Discrepancy,2024-04-03,Hunter Check,2024-12-31
+2000103,14119674.53,18291233.25,29.54,Pension Certificate,e-Verified,True,Medium,12885645.86,,2676305.77,Refer to Credit,2024-01-22,Hunter Check,2024-12-31
+2000104,9911263.23,12579641.04,26.92,Form 16,e-Verified,True,Medium,7535088.78,,1441000.57,Verified - Positive,2024-11-28,CERSAI,2024-12-31
+2000105,3773375.92,4663229.88,23.58,Salary Slips - 3M,Third Party Verified,True,Medium,3236167.69,,1082809.79,Verified - Positive,2024-05-21,Internal Credit Team,2024-12-31
+2000106,11965462.59,15432905.0,28.98,Form 16,e-Verified,True,Medium,11820829.19,,3335918.7,Verified with Discrepancy,2024-05-02,CERSAI,2024-12-31
+2000107,5808739.58,5525327.73,-4.88,Agriculture Income Proof,e-Verified,False,Low,5783006.87,17948196.0,1203119.38,Verified - Positive,2024-02-18,Internal Credit Team,2024-12-31
+2000108,8987654.86,8011270.1,-10.86,Bank Statement - Income Proxy,Third Party Verified,False,Low,7146459.07,35597311.77,1536634.65,Verified with Discrepancy,2024-02-27,Empanelled CA,2024-12-31
+2000109,4073542.92,3618150.48,-11.18,Salary Slips - 3M,ITD Portal,False,Low,3265276.19,16721706.32,567445.38,Verified - Positive,2024-01-21,Empanelled CA,2024-12-31
+2000110,3393759.48,3925569.52,15.67,CA Certified P&L,Digitally Fetched - AA,True,Medium,2590298.04,,805680.61,Verified - Positive,2024-09-23,Internal Credit Team,2024-12-31
+2000111,4299067.67,4340169.91,0.96,Audited Balance Sheet,Digitally Fetched - AA,False,Low,4157331.1,34544677.49,1115087.83,Verified - Positive,2024-03-07,Account Aggregator,2024-12-31
+2000112,10409534.59,8665479.56,-16.75,Agriculture Income Proof,Original Submitted,True,Medium,7834306.39,,1459963.23,Verified - Positive,2024-02-08,Empanelled CA,2024-12-31
+2000113,13884005.58,16496978.65,18.82,Agriculture Income Proof,ITD Portal,True,Medium,14752408.89,136276493.98,3851628.84,Verified - Positive,2024-06-24,Hunter Check,2024-12-31
+2000114,1097803.2,937202.58,-14.63,Salary Slips - 6M,GST API Pull,False,Low,884815.65,6142085.9,308335.1,Verified with Discrepancy,2024-01-01,Hunter Check,2024-12-31
+2000115,7476331.79,9357233.25,25.16,CA Certified P&L,GST API Pull,True,Medium,6008597.31,,1791647.95,Verification Failed,2024-05-30,Internal Credit Team,2024-12-31
+2000116,14499439.9,14893956.63,2.72,Salary Slips - 6M,Original Submitted,False,Low,14606450.51,,1835140.92,Verified - Positive,2024-02-16,Hunter Check,2024-12-31
+2000117,12810617.77,16170506.91,26.23,Salary Slips - 6M,Original Submitted,True,Medium,13804616.02,82960186.7,3600666.74,Verified - Positive,2024-05-31,Empanelled CA,2024-12-31
+2000118,2909070.78,2046792.79,-29.64,Audited Balance Sheet,GST API Pull,True,Medium,2967619.79,10582693.21,395784.09,Verified with Discrepancy,2024-10-23,Account Aggregator,2024-12-31
+2000119,10626574.25,12470701.26,17.35,Bank Statement - Income Proxy,GST API Pull,True,Medium,9711958.24,95084088.5,1958353.11,Verified - Positive,2024-12-16,Account Aggregator,2024-12-31
+2000120,13804282.59,17113388.57,23.97,Salary Slips - 6M,Original Submitted,True,Medium,10454806.46,112189369.89,2010418.14,Verified with Discrepancy,2024-10-29,Empanelled CA,2024-12-31
+2000121,5730160.86,5369356.66,-6.3,Form 16,e-Verified,False,Low,4798736.95,,1512190.65,Verified with Discrepancy,2024-11-16,Internal Credit Team,2024-12-31
+2000122,4223602.08,4471175.03,5.86,Salary Slips - 3M,Digitally Fetched - AA,False,Low,3582056.02,40578107.84,664875.53,Verified with Discrepancy,2024-10-16,Empanelled CA,2024-12-31
+2000123,9999876.54,12511821.73,25.12,Salary Slips - 6M,ITD Portal,True,Medium,9009005.24,74630687.94,1821641.07,Unverified,2024-07-27,Hunter Check,2024-12-31
+2000124,14663027.23,11850786.35,-19.18,Salary Slips - 6M,e-Verified,True,Medium,11759954.17,140859327.68,2908226.25,Verification Failed,2024-07-29,Internal Credit Team,2024-12-31
+2000125,12096220.75,13067826.64,8.03,CA Certified P&L,Original Submitted,False,Low,12203576.78,83223004.61,2338859.93,Verified with Discrepancy,2024-10-18,CERSAI,2024-12-31
+2000126,14119115.39,16794681.82,18.95,Salary Slips - 3M,ITD Portal,True,Medium,11285826.45,,3839593.56,Verified - Positive,2024-12-29,CERSAI,2024-12-31
+2000127,3562104.15,3734253.53,4.83,Salary Slips - 6M,GST API Pull,False,Low,3591409.16,21968053.91,744836.2,Verified - Positive,2024-03-05,Internal Credit Team,2024-12-31
+2000128,14117684.73,17073265.17,20.94,Salary Slips - 3M,e-Verified,True,Medium,11987672.76,123164804.12,3734201.03,Verified - Positive,2024-01-15,Empanelled CA,2024-12-31
+2000129,1921244.58,2186490.92,13.81,Form 16,Original Submitted,False,Low,1862186.55,,317128.47,Unverified,2024-03-30,Account Aggregator,2024-12-31
+2000130,4675814.87,3876125.67,-17.1,Form 16,Original Submitted,True,Medium,4367960.07,,1389539.29,Unverified,2024-11-09,Hunter Check,2024-12-31
+2000131,611430.58,695800.32,13.8,Salary Slips - 3M,GST API Pull,False,Low,630626.87,3581117.13,112251.61,Verified - Positive,2024-01-16,CERSAI,2024-12-31
+2000132,3434373.59,3722056.09,8.38,CA Certified P&L,Original Submitted,False,Low,3039686.59,,438685.37,Verified - Positive,2024-09-21,Empanelled CA,2024-12-31
+2000133,13752537.28,9783929.33,-28.86,Salary Slips - 6M,Original Submitted,True,Medium,14917175.46,73508043.34,2057860.3,Verified - Positive,2024-05-04,Account Aggregator,2024-12-31
+2000134,11900601.95,8898245.03,-25.23,Salary Slips - 3M,Original Submitted,True,Medium,11783418.42,90084907.2,3188422.08,Verified with Discrepancy,2024-07-02,Internal Credit Team,2024-12-31
+2000135,2669499.8,3083483.91,15.51,Agriculture Income Proof,e-Verified,True,Medium,2250327.54,19567025.06,419567.91,Verified - Positive,2024-08-13,Internal Credit Team,2024-12-31
+2000136,14965870.64,13594606.92,-9.16,ITR - 3 Years,e-Verified,False,Low,15434128.37,,2019736.11,Verified - Positive,2024-06-17,Hunter Check,2024-12-31
+2000137,12904055.41,10081508.61,-21.87,ITR - 3 Years,e-Verified,True,Medium,10843836.36,128308927.79,2554315.88,Verified with Discrepancy,2024-11-21,Account Aggregator,2024-12-31
+2000138,2149043.05,2547787.57,18.55,Audited Balance Sheet,Third Party Verified,True,Medium,1840094.35,,297801.07,Verified with Discrepancy,2024-01-20,Empanelled CA,2024-12-31
+2000139,14172401.68,13849178.19,-2.28,CA Certified P&L,Digitally Fetched - AA,False,Low,13891143.8,141383703.96,2042365.09,Verified - Positive,2024-03-13,Internal Credit Team,2024-12-31
+2000140,2464661.39,2675114.73,8.54,Salary Slips - 6M,Original Submitted,False,Low,2659450.01,16555183.96,334198.67,Verified with Discrepancy,2024-12-14,Internal Credit Team,2024-12-31
+2000141,11747692.55,14607343.15,24.34,Salary Slips - 3M,e-Verified,True,Medium,10605512.41,,2675775.73,Verified with Discrepancy,2024-02-18,Empanelled CA,2024-12-31
+2000142,2922255.86,3761053.8,28.7,CA Certified P&L,Original Submitted,True,Medium,2760179.74,,318971.96,Unverified,2024-01-22,Internal Credit Team,2024-12-31
+2000143,3080678.46,3826720.31,24.22,Bank Statement - Income Proxy,Original Submitted,True,Medium,2919231.56,11733340.48,859368.57,Verified with Discrepancy,2024-07-16,Internal Credit Team,2024-12-31
+2000144,6681681.33,5894862.39,-11.78,Salary Slips - 6M,Original Submitted,False,Low,6176933.92,22148331.52,1392396.11,Verified - Positive,2024-08-11,Empanelled CA,2024-12-31
+2000145,9669313.55,11490969.74,18.84,Salary Slips - 6M,Original Submitted,True,Medium,8567645.99,,1272300.94,Verified - Positive,2024-09-30,CERSAI,2024-12-31
+2000146,1472100.65,1580097.96,7.34,Agriculture Income Proof,Digitally Fetched - AA,False,Low,1594233.41,10293343.97,183359.23,Verified with Discrepancy,2024-07-25,Internal Credit Team,2024-12-31
+2000147,9675833.53,7405638.23,-23.46,CA Certified P&L,e-Verified,True,Medium,10011859.91,70995832.62,1744303.95,Verified - Positive,2024-02-18,Hunter Check,2024-12-31
+2000148,7646144.03,6813762.16,-10.89,ITR - 3 Years,e-Verified,False,Low,7060057.6,52423579.8,2197982.13,Verified - Positive,2024-11-30,Internal Credit Team,2024-12-31
+2000149,8652242.95,11080145.89,28.06,Pension Certificate,Original Submitted,True,Medium,8749266.97,,907251.56,Verified - Positive,2024-01-28,Hunter Check,2024-12-31
+2000150,6881689.32,7449185.12,8.25,Salary Slips - 6M,e-Verified,False,Low,7288811.4,,1102461.62,Verified with Discrepancy,2024-10-24,Internal Credit Team,2024-12-31
+2000151,1638112.1,1481383.29,-9.57,Agriculture Income Proof,Original Submitted,False,Low,1779507.92,,243378.6,Verified - Positive,2024-09-11,Internal Credit Team,2024-12-31
+2000152,8915606.79,8636894.3,-3.13,Agriculture Income Proof,Digitally Fetched - AA,False,Low,7882557.88,81592457.33,928091.12,Unverified,2024-04-18,Empanelled CA,2024-12-31
+2000153,294744.32,345694.8,17.29,Agriculture Income Proof,Digitally Fetched - AA,True,Medium,226936.9,2623752.46,82775.23,Verified with Discrepancy,2024-09-27,Empanelled CA,2024-12-31
+2000154,9563753.26,12378294.01,29.43,Salary Slips - 6M,e-Verified,True,Medium,10414589.98,,1550497.14,Verified - Positive,2024-04-06,Internal Credit Team,2024-12-31
+2000155,5317430.47,4541551.31,-14.59,Audited Balance Sheet,Original Submitted,False,Low,4861830.59,33495600.93,872339.47,Verified - Positive,2024-03-17,Internal Credit Team,2024-12-31
+2000156,11390868.48,12233630.33,7.4,Salary Slips - 6M,e-Verified,False,Low,12410793.04,69605504.57,2221157.53,Verified - Positive,2024-06-10,Empanelled CA,2024-12-31
+2000157,522769.53,513147.5,-1.84,Bank Statement - Income Proxy,Original Submitted,False,Low,448902.43,4175902.36,69504.18,Verified with Discrepancy,2024-12-02,CERSAI,2024-12-31
+2000158,14252381.4,16195388.83,13.63,Pension Certificate,Digitally Fetched - AA,False,Low,14871590.15,,3830883.26,Verified - Positive,2024-08-22,Internal Credit Team,2024-12-31
+2000159,4020700.89,3089066.76,-23.17,Pension Certificate,GST API Pull,True,Medium,3897685.67,,896421.33,Verified - Positive,2024-10-18,Empanelled CA,2024-12-31
+2000160,9610551.53,12189768.23,26.84,Bank Statement - Income Proxy,Third Party Verified,True,Medium,10064016.28,58006144.98,2681662.27,Verified - Positive,2024-07-31,Empanelled CA,2024-12-31
+2000161,10389833.89,10490276.05,0.97,Agriculture Income Proof,GST API Pull,False,Low,10505237.79,,2453707.47,Unverified,2024-08-17,Internal Credit Team,2024-12-31
+2000162,8871337.4,10200991.06,14.99,Form 16,Original Submitted,False,Low,7187865.67,80273760.35,899673.11,Verified - Positive,2024-09-11,Account Aggregator,2024-12-31
+2000163,11250176.65,8337911.17,-25.89,Salary Slips - 6M,Third Party Verified,True,Medium,11303240.29,,1960996.41,Refer to Credit,2024-06-10,Internal Credit Team,2024-12-31
+2000164,10373993.45,8859333.18,-14.6,Bank Statement - Income Proxy,Third Party Verified,False,Low,8073630.4,,1713561.58,Verified - Positive,2024-05-08,CERSAI,2024-12-31
+2000165,13244370.29,9368339.72,-29.27,Audited Balance Sheet,Original Submitted,True,Medium,10014509.48,82551939.81,2060941.86,Verified with Discrepancy,2024-11-19,Empanelled CA,2024-12-31
+2000166,6037023.01,4532756.73,-24.92,Bank Statement - Income Proxy,GST API Pull,True,Medium,5364575.14,,1771667.51,Verified - Positive,2024-09-11,Internal Credit Team,2024-12-31
+2000167,5317994.92,6382126.3,20.01,CA Certified P&L,e-Verified,True,Medium,5159224.99,,1171950.02,Verified with Discrepancy,2024-12-27,Hunter Check,2024-12-31
+2000168,11362102.65,9909773.92,-12.78,Pension Certificate,e-Verified,False,Low,9545692.48,55757831.9,2311320.55,Verified - Positive,2024-05-17,Hunter Check,2024-12-31
+2000169,14552662.35,12201218.51,-16.16,ITR - 3 Years,Third Party Verified,True,Medium,11591891.35,,3105075.05,Verified - Positive,2024-07-31,Hunter Check,2024-12-31
+2000170,8063934.71,10274519.73,27.41,Salary Slips - 6M,e-Verified,True,Medium,7654033.57,40581415.44,1732349.8,Verified with Discrepancy,2024-09-09,Internal Credit Team,2024-12-31
+2000171,9468725.74,8299243.68,-12.35,ITR - 3 Years,Original Submitted,False,Low,10154999.43,,1607687.63,Verified - Positive,2024-12-08,Empanelled CA,2024-12-31
+2000172,7328336.48,8016270.88,9.39,Agriculture Income Proof,Original Submitted,False,Low,6733077.15,27550781.25,1116978.53,Verified with Discrepancy,2024-03-17,Internal Credit Team,2024-12-31
+2000173,1794663.08,1427653.59,-20.45,Salary Slips - 3M,e-Verified,True,Medium,1688079.06,16006863.39,389143.26,Verified - Positive,2024-10-14,Hunter Check,2024-12-31
+2000174,9983674.37,11976265.21,19.96,Audited Balance Sheet,Original Submitted,True,Medium,10950304.95,,1090425.3,Verified with Discrepancy,2024-12-04,Internal Credit Team,2024-12-31
+2000175,12523429.66,14146723.05,12.96,Agriculture Income Proof,e-Verified,False,Low,9991406.04,,2492394.4,Verified - Positive,2024-06-02,Empanelled CA,2024-12-31
+2000176,8353583.32,6813112.51,-18.44,Agriculture Income Proof,Digitally Fetched - AA,True,Medium,6628834.48,64666519.65,2143802.0,Verified - Positive,2024-03-03,Internal Credit Team,2024-12-31
+2000177,9718333.77,12377912.96,27.37,Pension Certificate,ITD Portal,True,Medium,9271768.06,,1411787.56,Verified - Positive,2024-01-24,Internal Credit Team,2024-12-31
+2000178,9845980.09,7502675.18,-23.8,Form 16,Original Submitted,True,Medium,7591413.71,69670315.02,2433528.12,Verified - Positive,2024-10-06,Internal Credit Team,2024-12-31
+2000179,9069620.36,10308498.74,13.66,Pension Certificate,Original Submitted,False,Low,9119785.12,68087332.19,2624763.26,Verified with Discrepancy,2024-08-23,Empanelled CA,2024-12-31
+2000180,2157474.03,1576137.35,-26.95,Salary Slips - 6M,GST API Pull,True,Medium,1939126.91,,639037.64,Verified - Positive,2024-05-16,Empanelled CA,2024-12-31
+2000181,8172815.74,7842290.46,-4.04,ITR - 3 Years,Digitally Fetched - AA,False,Low,6762358.4,31159815.74,2419944.76,Verified - Positive,2024-03-28,Internal Credit Team,2024-12-31
+2000182,1632215.43,2054117.81,25.85,CA Certified P&L,Third Party Verified,True,Medium,1699686.91,,427426.79,Unverified,2024-02-15,Empanelled CA,2024-12-31
+2000183,7480443.77,7929235.17,6.0,Form 16,Third Party Verified,False,Low,6215409.62,58699937.97,1213778.44,Unverified,2024-09-03,Internal Credit Team,2024-12-31
+2000184,1628878.87,1249332.03,-23.3,Agriculture Income Proof,Digitally Fetched - AA,True,Medium,1365617.4,,434791.85,Verified - Positive,2024-02-20,Internal Credit Team,2024-12-31
+2000185,3547177.64,3670426.44,3.47,CA Certified P&L,Original Submitted,False,Low,3309214.75,,892309.29,Verification Failed,2024-10-03,Internal Credit Team,2024-12-31
+2000186,665307.72,676489.35,1.68,Pension Certificate,GST API Pull,False,Low,546729.96,4863327.37,168452.11,Verified - Positive,2024-02-26,Empanelled CA,2024-12-31
+2000187,8080024.66,8306317.08,2.8,CA Certified P&L,e-Verified,False,Low,8666892.32,,2068086.9,Verification Failed,2024-09-04,Empanelled CA,2024-12-31
+2000188,4981515.19,4408390.77,-11.51,ITR - 3 Years,Original Submitted,False,Low,4294283.42,,655898.97,Verified with Discrepancy,2024-04-13,Empanelled CA,2024-12-31
+2000189,11165524.54,10391745.16,-6.93,Audited Balance Sheet,Original Submitted,False,Low,9679219.86,,3222764.83,Verified with Discrepancy,2024-07-01,Internal Credit Team,2024-12-31
+2000190,10379666.72,10083657.75,-2.85,Form 16,Original Submitted,False,Low,10075146.67,91221131.89,2113493.16,Verified - Positive,2024-03-21,Empanelled CA,2024-12-31
+2000191,9800200.34,11248714.61,14.78,Pension Certificate,Digitally Fetched - AA,False,Low,10273361.0,72802450.04,1627721.58,Verified - Positive,2024-09-17,Empanelled CA,2024-12-31
+2000192,2001105.96,2243822.68,12.13,ITR - 3 Years,Third Party Verified,False,Low,1964161.07,15624356.1,396357.35,Verified - Positive,2024-12-30,Internal Credit Team,2024-12-31
+2000193,13492859.65,14792513.62,9.63,Form 16,e-Verified,False,Low,10442887.33,49959426.98,3393955.25,Unverified,2024-09-05,Internal Credit Team,2024-12-31
+2000194,1355042.63,1337345.52,-1.31,Audited Balance Sheet,e-Verified,False,Low,1469670.08,12306045.05,349605.55,Verified - Positive,2024-12-09,Internal Credit Team,2024-12-31
+2000195,13326118.54,15871773.14,19.1,Form 16,Digitally Fetched - AA,True,Medium,13153239.36,,3469555.75,Verified - Positive,2024-02-23,Empanelled CA,2024-12-31
+2000196,1450722.41,1872861.19,29.1,ITR - 3 Years,e-Verified,True,Medium,1435100.59,4799822.85,328630.54,Verified - Positive,2024-05-31,Hunter Check,2024-12-31
+2000197,275276.27,293130.28,6.49,Audited Balance Sheet,e-Verified,False,Low,301779.57,921546.84,75486.49,Refer to Credit,2024-01-30,Empanelled CA,2024-12-31
+2000198,755621.49,859230.82,13.71,Pension Certificate,e-Verified,False,Low,699469.2,4069718.53,76833.9,Verified with Discrepancy,2024-02-25,Empanelled CA,2024-12-31
+2000199,3349450.43,3883949.42,15.96,Pension Certificate,Digitally Fetched - AA,True,Medium,2896984.0,,530995.28,Verified with Discrepancy,2024-12-01,Internal Credit Team,2024-12-31
+2000200,10025007.88,10140943.98,1.16,Pension Certificate,e-Verified,False,Low,8943395.76,54271364.55,2915095.72,Verified - Positive,2024-09-18,Internal Credit Team,2024-12-31
+2000201,7136467.42,8854219.24,24.07,Salary Slips - 6M,e-Verified,True,Medium,5598660.8,,1696710.17,Verified with Discrepancy,2024-11-05,Internal Credit Team,2024-12-31
+2000202,1258965.77,1581533.96,25.62,Audited Balance Sheet,Digitally Fetched - AA,True,Medium,1072555.98,,162990.6,Verified with Discrepancy,2024-06-30,Empanelled CA,2024-12-31
+2000203,138189.58,168784.64,22.14,Salary Slips - 6M,e-Verified,True,Medium,119155.97,,21645.68,Verified - Positive,2024-03-30,Hunter Check,2024-12-31
+2000204,11938394.3,14760245.11,23.64,Bank Statement - Income Proxy,Digitally Fetched - AA,True,Medium,9971459.36,,2263435.76,Verified - Positive,2024-09-24,Empanelled CA,2024-12-31
+2000205,14084649.06,16515829.16,17.26,Form 16,Original Submitted,True,Medium,12231788.85,,3104582.17,Unverified,2024-04-14,Internal Credit Team,2024-12-31
+2000206,9670036.01,8301925.2,-14.15,CA Certified P&L,e-Verified,False,Low,9595923.66,42497870.56,1925006.28,Verified - Positive,2024-06-14,Internal Credit Team,2024-12-31
+2000207,3178530.85,2482818.47,-21.89,Salary Slips - 3M,Original Submitted,True,Medium,3001130.82,16943444.59,735232.35,Verified - Positive,2024-12-02,Hunter Check,2024-12-31
+2000208,2991860.62,3465536.75,15.83,Salary Slips - 3M,e-Verified,True,Medium,3258909.81,,387050.31,Verified with Discrepancy,2024-01-26,Account Aggregator,2024-12-31
+2000209,6819128.47,4821883.03,-29.29,Pension Certificate,GST API Pull,True,Medium,5229411.39,42321935.05,818379.8,Verified with Discrepancy,2024-03-01,Internal Credit Team,2024-12-31
+2000210,1590005.36,1861452.34,17.07,ITR - 3 Years,Digitally Fetched - AA,True,Medium,1554668.16,,308066.04,Verified with Discrepancy,2024-10-22,Internal Credit Team,2024-12-31
+2000211,11926549.73,9158553.34,-23.21,Salary Slips - 3M,Digitally Fetched - AA,True,Medium,12564471.61,,2960105.6,Verified - Positive,2024-06-15,CERSAI,2024-12-31
+2000212,7186380.18,7313536.32,1.77,Bank Statement - Income Proxy,e-Verified,False,Low,6894206.93,44317907.37,1036738.8,Verified - Positive,2024-10-09,Account Aggregator,2024-12-31
+2000213,8800878.75,11145577.27,26.64,Salary Slips - 6M,GST API Pull,True,Medium,8436873.92,62567260.75,2439014.72,Verified - Positive,2024-02-28,Account Aggregator,2024-12-31
+2000214,9856705.62,8401296.15,-14.77,Form 16,e-Verified,False,Low,8297991.65,,1465304.28,Verified with Discrepancy,2024-05-29,Internal Credit Team,2024-12-31
+2000215,11183004.9,9854083.72,-11.88,Bank Statement - Income Proxy,Original Submitted,False,Low,8832370.48,,2434212.65,Verified with Discrepancy,2024-07-27,Empanelled CA,2024-12-31
+2000216,2852966.83,2424139.75,-15.03,CA Certified P&L,e-Verified,True,Medium,2700182.16,,844782.21,Verified - Positive,2024-05-12,Internal Credit Team,2024-12-31
+2000217,13263532.72,15121933.47,14.01,CA Certified P&L,e-Verified,False,Low,12355014.26,122692403.03,2943808.91,Verified with Discrepancy,2024-07-08,Empanelled CA,2024-12-31
+2000218,4142784.07,4677431.88,12.91,Pension Certificate,e-Verified,False,Low,4184321.58,,937986.24,Verified - Positive,2024-08-09,Account Aggregator,2024-12-31
+2000219,14901311.71,14650617.45,-1.68,Pension Certificate,Third Party Verified,False,Low,11888802.52,115734142.97,2276431.82,Verification Failed,2024-07-16,CERSAI,2024-12-31
+2000220,7562974.33,6262206.23,-17.2,Agriculture Income Proof,e-Verified,True,Medium,5717954.48,,986841.18,Verified - Positive,2024-01-25,Internal Credit Team,2024-12-31
+2000221,8620655.39,9111901.13,5.7,Form 16,Original Submitted,False,Low,7060407.43,84032792.65,1835431.37,Verified with Discrepancy,2024-09-19,Internal Credit Team,2024-12-31
+2000222,2466878.6,3191170.12,29.36,Salary Slips - 3M,Digitally Fetched - AA,True,Medium,1935763.93,,501168.68,Verified - Positive,2024-05-14,Hunter Check,2024-12-31
+2000223,5466080.7,5899269.27,7.93,Audited Balance Sheet,Digitally Fetched - AA,False,Low,4912605.58,23711365.24,1325188.87,Verified - Positive,2024-05-19,Empanelled CA,2024-12-31
+2000224,7800430.65,9101156.93,16.68,Form 16,Digitally Fetched - AA,True,Medium,7423578.98,70004956.88,923293.0,Verified - Positive,2024-03-08,Internal Credit Team,2024-12-31
+2000225,11163408.63,8252691.33,-26.07,CA Certified P&L,Original Submitted,True,Medium,10705982.04,,1366946.38,Verified - Positive,2024-11-01,Hunter Check,2024-12-31
+2000226,3764764.49,3264544.24,-13.29,ITR - 3 Years,Third Party Verified,False,Low,2943334.37,,413453.26,Unverified,2024-08-19,Internal Credit Team,2024-12-31
+2000227,9972833.69,9015334.05,-9.6,CA Certified P&L,Third Party Verified,False,Low,9044000.76,,2204778.82,Verified - Positive,2024-11-04,Empanelled CA,2024-12-31
+2000228,6237403.26,7575497.61,21.45,Pension Certificate,Original Submitted,True,Medium,4702327.27,,1117765.86,Unverified,2024-08-03,Empanelled CA,2024-12-31
+2000229,10630338.73,11057939.48,4.02,Agriculture Income Proof,ITD Portal,False,Low,11674504.07,100490749.53,2837920.94,Verified - Positive,2024-11-06,Empanelled CA,2024-12-31
+2000230,7077426.54,8972996.49,26.78,Salary Slips - 3M,Digitally Fetched - AA,True,Medium,5697247.77,,1595294.26,Refer to Credit,2024-12-02,Hunter Check,2024-12-31
+2000231,10336885.31,10489006.75,1.47,Pension Certificate,e-Verified,False,Low,9701327.87,,1735981.59,Verified with Discrepancy,2024-06-08,Empanelled CA,2024-12-31
+2000232,920277.74,872189.36,-5.23,Agriculture Income Proof,GST API Pull,False,Low,711592.4,9064104.68,193010.43,Verified with Discrepancy,2024-03-31,Internal Credit Team,2024-12-31
+2000233,14203977.98,15073497.25,6.12,CA Certified P&L,Original Submitted,False,Low,15187262.05,101200855.95,1663242.9,Verified with Discrepancy,2024-01-18,Empanelled CA,2024-12-31
+2000234,5816351.98,6411484.0,10.23,Pension Certificate,e-Verified,False,Low,5013644.19,,1097560.71,Verified with Discrepancy,2024-04-26,Hunter Check,2024-12-31
+2000235,2548146.68,2953268.41,15.9,Bank Statement - Income Proxy,ITD Portal,True,Medium,2747657.13,11858017.1,716483.32,Verified with Discrepancy,2024-04-07,Internal Credit Team,2024-12-31
+2000236,4227801.73,3535065.43,-16.39,Bank Statement - Income Proxy,Original Submitted,True,Medium,3261435.47,,491719.4,Verified with Discrepancy,2024-12-05,Empanelled CA,2024-12-31
+2000237,14627512.32,17824496.9,21.86,Salary Slips - 6M,Original Submitted,True,Medium,13473831.64,,3554711.03,Verified with Discrepancy,2024-10-25,Hunter Check,2024-12-31
+2000238,2364140.44,1665461.23,-29.55,Agriculture Income Proof,Original Submitted,True,Medium,2119245.7,19080649.65,645847.87,Verified - Positive,2024-08-28,Empanelled CA,2024-12-31
+2000239,10098239.56,10911208.06,8.05,Audited Balance Sheet,Digitally Fetched - AA,False,Low,10067153.88,,1135671.17,Unverified,2024-09-19,CERSAI,2024-12-31
+2000240,10893352.93,13907872.1,27.67,Salary Slips - 3M,GST API Pull,True,Medium,8879163.88,,1472329.54,Verified - Positive,2024-07-11,Internal Credit Team,2024-12-31
+2000241,4747711.02,4244005.84,-10.61,ITR - 3 Years,Original Submitted,False,Low,4237639.89,,989808.21,Verified - Positive,2024-09-24,Empanelled CA,2024-12-31
+2000242,5849552.3,4278583.26,-26.86,Agriculture Income Proof,e-Verified,True,Medium,4599101.14,,1216503.28,Verified - Positive,2024-08-06,Hunter Check,2024-12-31
+2000243,11243373.44,8379944.87,-25.47,CA Certified P&L,e-Verified,True,Medium,8579635.12,111544523.83,1854666.69,Verified with Discrepancy,2024-02-16,Account Aggregator,2024-12-31
+2000244,12699566.94,12179214.94,-4.1,Pension Certificate,e-Verified,False,Low,10816492.28,,3205068.97,Verified with Discrepancy,2024-08-17,Empanelled CA,2024-12-31
+2000245,7896083.24,8531873.71,8.05,Bank Statement - Income Proxy,e-Verified,False,Low,6385456.38,,2104499.3,Unverified,2024-09-14,CERSAI,2024-12-31
+2000246,3859555.47,3324470.57,-13.86,CA Certified P&L,Third Party Verified,False,Low,3792704.72,38522344.14,769490.78,Verified with Discrepancy,2024-10-17,Internal Credit Team,2024-12-31
+2000247,5571085.69,5014163.48,-10.0,Pension Certificate,e-Verified,False,Low,5837461.36,,1093569.65,Verified - Positive,2024-02-04,Hunter Check,2024-12-31
+2000248,9084676.56,8614977.18,-5.17,Form 16,e-Verified,False,Low,7543178.97,,2555150.27,Verified - Positive,2024-05-19,CERSAI,2024-12-31
+2000249,10491084.09,10424149.06,-0.64,Bank Statement - Income Proxy,Digitally Fetched - AA,False,Low,9179674.02,,2817594.08,Verification Failed,2024-09-01,CERSAI,2024-12-31
+2000250,12746195.19,10352136.12,-18.78,Agriculture Income Proof,GST API Pull,True,Medium,11848719.76,80246297.14,1653534.68,Verified - Positive,2024-04-13,Internal Credit Team,2024-12-31
+2000251,12233025.7,10782316.53,-11.86,Pension Certificate,Original Submitted,False,Low,12352943.46,,3358116.5,Verified - Positive,2024-11-24,Internal Credit Team,2024-12-31
+2000252,3582167.46,3944535.86,10.12,Salary Slips - 3M,e-Verified,False,Low,2968352.65,,426647.38,Verified with Discrepancy,2024-09-09,Internal Credit Team,2024-12-31
+2000253,4895760.05,4256763.12,-13.05,Salary Slips - 3M,Digitally Fetched - AA,False,Low,4638807.51,,569938.04,Unverified,2024-02-01,Internal Credit Team,2024-12-31
+2000254,11464917.19,9530578.42,-16.87,Agriculture Income Proof,Original Submitted,True,Medium,11034815.32,,1202146.96,Verified - Positive,2024-06-07,Internal Credit Team,2024-12-31
+2000255,1082108.89,1284657.71,18.72,Agriculture Income Proof,Original Submitted,True,Medium,979650.7,10025754.91,136283.95,Verified - Positive,2024-03-09,Account Aggregator,2024-12-31
+2000256,7361738.58,8932324.92,21.33,Audited Balance Sheet,Digitally Fetched - AA,True,Medium,6580987.1,70992072.89,1268011.65,Verified - Positive,2024-09-15,Empanelled CA,2024-12-31
+2000257,10316537.67,12050334.98,16.81,Salary Slips - 3M,Original Submitted,True,Medium,10360594.95,,1304152.57,Verified with Discrepancy,2024-04-29,CERSAI,2024-12-31
+2000258,14153017.47,11607496.74,-17.99,Audited Balance Sheet,e-Verified,True,Medium,12223279.43,,1642863.5,Verified with Discrepancy,2024-10-19,Internal Credit Team,2024-12-31
+2000259,7813145.65,9403216.17,20.35,Salary Slips - 6M,GST API Pull,True,Medium,8072464.33,,1701210.01,Verified - Positive,2024-07-09,CERSAI,2024-12-31
+2000260,14360057.25,10716161.92,-25.38,ITR - 3 Years,e-Verified,True,Medium,12275352.06,,3957180.71,Verified with Discrepancy,2024-01-06,Hunter Check,2024-12-31
+2000261,6612652.77,7592897.67,14.82,Salary Slips - 6M,Third Party Verified,False,Low,6558993.16,,874021.46,Verified - Positive,2024-08-29,Empanelled CA,2024-12-31
+2000262,7294322.55,6982221.91,-4.28,ITR - 3 Years,Original Submitted,False,Low,5927519.1,26703398.15,1433097.97,Verified with Discrepancy,2024-05-17,Hunter Check,2024-12-31
+2000263,6133726.92,6612542.98,7.81,CA Certified P&L,Digitally Fetched - AA,False,Low,6708791.07,44364213.54,620788.16,Verified - Positive,2024-03-27,Internal Credit Team,2024-12-31
+2000264,10217690.97,7219393.91,-29.34,Audited Balance Sheet,Original Submitted,True,Medium,10958737.24,,1620763.12,Verified with Discrepancy,2024-01-04,Empanelled CA,2024-12-31
+2000265,10316533.18,9323878.74,-9.62,ITR - 3 Years,Digitally Fetched - AA,False,Low,10877688.65,60499172.32,2084477.99,Verification Failed,2024-01-26,Empanelled CA,2024-12-31
+2000266,13748291.28,10862176.56,-20.99,Pension Certificate,GST API Pull,True,Medium,13339127.23,46825865.8,1464853.48,Verified - Positive,2024-07-15,Empanelled CA,2024-12-31
+2000267,2013041.93,2203857.34,9.48,ITR - 3 Years,Original Submitted,False,Low,2042262.74,,357411.88,Verified - Positive,2024-02-06,CERSAI,2024-12-31
+2000268,6854129.99,6951164.83,1.42,Bank Statement - Income Proxy,Original Submitted,False,Low,7357121.64,,1275236.78,Verified with Discrepancy,2024-11-22,Account Aggregator,2024-12-31
+2000269,6590553.95,5451003.66,-17.29,Agriculture Income Proof,Original Submitted,True,Medium,5549645.13,41554418.56,1211277.0,Verified - Positive,2024-07-17,Account Aggregator,2024-12-31
+2000270,13573281.11,14579244.41,7.41,Form 16,Original Submitted,False,Low,11397809.66,,4047120.55,Verified - Positive,2024-08-23,Internal Credit Team,2024-12-31
+2000271,3760816.3,4113829.49,9.39,CA Certified P&L,e-Verified,False,Low,4031834.07,,717539.37,Verified - Positive,2024-05-26,Internal Credit Team,2024-12-31
+2000272,12151016.64,10559969.31,-13.09,CA Certified P&L,Digitally Fetched - AA,False,Low,11223799.42,,2246149.77,Verification Failed,2024-12-12,Account Aggregator,2024-12-31
+2000273,14997339.76,18025213.1,20.19,Bank Statement - Income Proxy,Original Submitted,True,Medium,13393825.39,,2688406.6,Verification Failed,2024-06-04,Internal Credit Team,2024-12-31
+2000274,6094148.87,7072867.64,16.06,Form 16,GST API Pull,True,Medium,5123973.56,,1429088.08,Verification Failed,2024-06-26,Empanelled CA,2024-12-31
+2000275,2810474.64,2315382.4,-17.62,ITR - 3 Years,Digitally Fetched - AA,True,Medium,2474259.38,,802141.5,Refer to Credit,2024-01-31,Internal Credit Team,2024-12-31
+2000276,13471810.65,11079682.57,-17.76,Pension Certificate,Digitally Fetched - AA,True,Medium,12802779.39,40935799.74,2421425.45,Verified - Positive,2024-08-21,Empanelled CA,2024-12-31
+2000277,1054383.63,864911.67,-17.97,Salary Slips - 3M,GST API Pull,True,Medium,967638.65,,292443.19,Verified - Positive,2024-12-17,Internal Credit Team,2024-12-31
+2000278,9609143.4,8161653.62,-15.06,Form 16,e-Verified,True,Medium,9472194.8,,1219152.02,Verified - Positive,2024-09-28,Hunter Check,2024-12-31
+2000279,11070992.1,12639205.1,14.17,Audited Balance Sheet,Original Submitted,False,Low,11129004.57,48899075.38,2782030.48,Verified with Discrepancy,2024-03-26,Account Aggregator,2024-12-31
+2000280,2589025.84,3061693.67,18.26,Audited Balance Sheet,e-Verified,True,Medium,2538785.2,8180755.23,460426.76,Unverified,2024-12-10,Empanelled CA,2024-12-31
+2000281,10693749.76,11922382.84,11.49,Audited Balance Sheet,e-Verified,False,Low,8574290.45,,1556125.97,Verified - Positive,2024-01-16,Internal Credit Team,2024-12-31
+2000282,2631342.35,3087771.41,17.35,Audited Balance Sheet,e-Verified,True,Medium,2767890.77,9739792.32,710441.25,Verified - Positive,2024-10-04,Internal Credit Team,2024-12-31
+2000283,13226480.87,13416190.02,1.43,Salary Slips - 6M,GST API Pull,False,Low,12863157.46,65380101.44,3671647.26,Verified - Positive,2024-04-02,Empanelled CA,2024-12-31
+2000284,2119557.67,1929673.72,-8.96,Audited Balance Sheet,e-Verified,False,Low,2143046.1,,351197.84,Verified - Positive,2024-10-23,Internal Credit Team,2024-12-31
+2000285,8674821.8,10910742.66,25.77,Form 16,GST API Pull,True,Medium,7525145.37,,2128176.43,Unverified,2024-09-02,Internal Credit Team,2024-12-31
+2000286,6985685.41,8663615.22,24.02,Salary Slips - 6M,e-Verified,True,Medium,6449034.59,,1337296.64,Verified with Discrepancy,2024-03-23,Empanelled CA,2024-12-31
+2000287,2701146.56,2362628.64,-12.53,Pension Certificate,Third Party Verified,False,Low,2053340.91,,562301.28,Verified - Positive,2024-09-08,Internal Credit Team,2024-12-31
+2000288,2161787.4,1769463.67,-18.15,CA Certified P&L,Third Party Verified,True,Medium,1809602.32,,284392.95,Verified - Positive,2024-10-15,CERSAI,2024-12-31
+2000289,11875781.94,10879582.36,-8.39,Agriculture Income Proof,Original Submitted,False,Low,11762398.57,,3440068.68,Verified - Positive,2024-02-16,CERSAI,2024-12-31
+2000290,10496318.28,9045652.85,-13.82,Bank Statement - Income Proxy,Digitally Fetched - AA,False,Low,11146823.4,,2207873.82,Unverified,2024-05-31,Internal Credit Team,2024-12-31
+2000291,8605656.4,7302717.13,-15.14,ITR - 3 Years,e-Verified,True,Medium,8463225.1,,1495878.11,Verification Failed,2024-02-22,Account Aggregator,2024-12-31
+2000292,1060702.83,827738.04,-21.96,ITR - 3 Years,e-Verified,True,Medium,842155.46,,202268.13,Verified - Positive,2024-10-07,Empanelled CA,2024-12-31
+2000293,8060422.15,6170875.17,-23.44,Salary Slips - 6M,Third Party Verified,True,Medium,7449392.13,,2229861.26,Verified with Discrepancy,2024-04-04,Internal Credit Team,2024-12-31
+2000294,12667431.23,13879707.61,9.57,Form 16,Third Party Verified,False,Low,9529736.4,73399568.78,1521761.72,Verified with Discrepancy,2024-10-26,Internal Credit Team,2024-12-31
+2000295,5666773.07,6391957.28,12.8,ITR - 3 Years,ITD Portal,False,Low,4662829.08,,1058837.71,Verified - Positive,2024-08-14,Hunter Check,2024-12-31
+2000296,5849674.14,5054856.12,-13.59,Salary Slips - 3M,Original Submitted,False,Low,6089267.92,,1588910.55,Verified with Discrepancy,2024-06-18,Empanelled CA,2024-12-31
+2000297,451127.16,332914.43,-26.2,Bank Statement - Income Proxy,Original Submitted,True,Medium,419172.48,1687870.3,105714.19,Verified - Positive,2024-06-13,Internal Credit Team,2024-12-31
+2000298,6847574.79,6855891.99,0.12,Salary Slips - 3M,Digitally Fetched - AA,False,Low,6886706.65,,1672345.02,Verified - Positive,2024-12-16,Internal Credit Team,2024-12-31
+2000299,14812681.93,15464208.31,4.4,CA Certified P&L,Original Submitted,False,Low,12907006.49,,3857489.85,Verified with Discrepancy,2024-03-26,Empanelled CA,2024-12-31
+2000300,10279974.54,12186954.43,18.55,Bank Statement - Income Proxy,Original Submitted,True,Medium,9440720.53,33979845.88,2099734.54,Verified - Positive,2024-05-07,Internal Credit Team,2024-12-31
+2000301,12608864.43,11153137.67,-11.55,Bank Statement - Income Proxy,e-Verified,False,Low,13221879.72,82940344.88,2781175.01,Verified - Positive,2024-06-17,Account Aggregator,2024-12-31
+2000302,8064334.71,8212802.79,1.84,Salary Slips - 6M,Original Submitted,False,Low,8780347.63,75425221.0,959424.42,Verified - Positive,2024-08-20,Empanelled CA,2024-12-31
+2000303,10343867.63,7858375.87,-24.03,Salary Slips - 6M,e-Verified,True,Medium,7830106.27,,2833232.81,Verified with Discrepancy,2024-03-29,Hunter Check,2024-12-31
+2000304,2536602.46,3177746.41,25.28,Pension Certificate,Third Party Verified,True,Medium,2651055.39,,424367.39,Verified - Positive,2024-06-14,Account Aggregator,2024-12-31
+2000305,5869105.67,6424197.34,9.46,Agriculture Income Proof,GST API Pull,False,Low,5056277.0,,950853.3,Verified with Discrepancy,2024-05-15,Hunter Check,2024-12-31
+2000306,14099497.92,10948523.55,-22.35,Salary Slips - 6M,Digitally Fetched - AA,True,Medium,13311651.08,,2237548.09,Verified - Positive,2024-04-22,Empanelled CA,2024-12-31
+2000307,6879412.53,6288297.44,-8.59,CA Certified P&L,Original Submitted,False,Low,5358674.31,40636655.91,821970.22,Verified with Discrepancy,2024-03-30,Internal Credit Team,2024-12-31
+2000308,14276972.93,11882868.21,-16.77,Form 16,Digitally Fetched - AA,True,Medium,12719318.92,,2906928.17,Verified - Positive,2024-04-12,Empanelled CA,2024-12-31
+2000309,351473.12,279088.7,-20.59,CA Certified P&L,Original Submitted,True,Medium,274869.96,1355037.75,55021.48,Verification Failed,2024-09-02,Internal Credit Team,2024-12-31
+2000310,9497585.36,7501429.57,-21.02,Pension Certificate,Digitally Fetched - AA,True,Medium,7370082.64,,1786202.31,Verified - Positive,2024-11-14,Empanelled CA,2024-12-31
+2000311,8998460.83,8486911.29,-5.68,Salary Slips - 3M,Original Submitted,False,Low,7103793.58,,2515310.59,Verified with Discrepancy,2024-04-06,Hunter Check,2024-12-31
+2000312,131445.13,127184.92,-3.24,Bank Statement - Income Proxy,Digitally Fetched - AA,False,Low,144491.54,,24841.79,Verified - Positive,2024-04-18,Empanelled CA,2024-12-31
+2000313,10233484.7,7817709.17,-23.61,ITR - 3 Years,Original Submitted,True,Medium,8296391.81,,2057397.3,Verified with Discrepancy,2024-01-20,Hunter Check,2024-12-31
+2000314,14415665.54,17848472.11,23.81,Pension Certificate,Digitally Fetched - AA,True,Medium,13923372.63,,2498719.26,Verified with Discrepancy,2024-02-16,CERSAI,2024-12-31
+2000315,9119903.12,8284766.37,-9.16,Form 16,Original Submitted,False,Low,7581905.41,,1224015.42,Verified - Positive,2024-11-19,Empanelled CA,2024-12-31
+2000316,8869257.06,10829841.5,22.11,Salary Slips - 3M,Original Submitted,True,Medium,8601274.43,73689236.62,1696908.07,Verification Failed,2024-05-15,Hunter Check,2024-12-31
+2000317,1926700.52,1900795.25,-1.34,Form 16,Third Party Verified,False,Low,1750219.14,,536549.75,Verified - Positive,2024-11-26,Empanelled CA,2024-12-31
+2000318,4429141.82,4874528.08,10.06,Agriculture Income Proof,e-Verified,False,Low,4282501.88,,1287482.29,Verified with Discrepancy,2024-12-12,Hunter Check,2024-12-31
+2000319,1878946.55,1436682.62,-23.54,Bank Statement - Income Proxy,Original Submitted,True,Medium,2064672.81,8124693.15,431742.93,Unverified,2024-02-18,Hunter Check,2024-12-31
+2000320,4537149.88,4464785.75,-1.59,Form 16,e-Verified,False,Low,3483148.54,32481901.27,1067891.29,Verified - Positive,2024-02-07,Account Aggregator,2024-12-31
+2000321,1981523.05,1624958.95,-17.99,Agriculture Income Proof,Original Submitted,True,Medium,1681154.19,18478997.34,467065.87,Verification Failed,2024-11-12,Empanelled CA,2024-12-31
+2000322,6527527.88,7520105.16,15.21,Pension Certificate,Original Submitted,True,Medium,5481205.45,,1687670.05,Verified - Positive,2024-09-11,Internal Credit Team,2024-12-31
+2000323,12774252.94,16116557.5,26.16,Bank Statement - Income Proxy,GST API Pull,True,Medium,11298055.78,,2713181.11,Verified - Positive,2024-01-14,Account Aggregator,2024-12-31
+2000324,8910900.06,10931281.5,22.67,Form 16,Third Party Verified,True,Medium,9722100.0,,1723047.5,Verified with Discrepancy,2024-07-22,Internal Credit Team,2024-12-31
+2000325,6309824.13,7518574.28,19.16,Salary Slips - 3M,Original Submitted,True,Medium,6901449.7,,1142758.38,Verified with Discrepancy,2024-10-12,Internal Credit Team,2024-12-31
+2000326,12974504.43,13188248.74,1.65,Salary Slips - 3M,e-Verified,False,Low,13666770.04,124572012.31,3297358.42,Verified - Positive,2024-05-04,Empanelled CA,2024-12-31
+2000327,10808500.87,7634914.67,-29.36,Agriculture Income Proof,Original Submitted,True,Medium,8376104.35,77475628.37,1362174.1,Unverified,2024-05-21,Internal Credit Team,2024-12-31
+2000328,8148894.48,9220679.29,13.15,Agriculture Income Proof,Original Submitted,False,Low,8899020.82,,2329748.32,Verified with Discrepancy,2024-05-29,Internal Credit Team,2024-12-31
+2000329,7764473.79,8565497.46,10.32,Agriculture Income Proof,Digitally Fetched - AA,False,Low,7080144.21,31178118.76,1215211.99,Verified - Positive,2024-06-30,Internal Credit Team,2024-12-31
+2000330,13020240.38,12875832.19,-1.11,CA Certified P&L,Original Submitted,False,Low,12942842.44,,2402029.19,Verified with Discrepancy,2024-03-31,Internal Credit Team,2024-12-31
+2000331,7306562.77,6475553.05,-11.37,Salary Slips - 3M,e-Verified,False,Low,6775618.01,,1565489.48,Verified - Positive,2024-12-20,CERSAI,2024-12-31
+2000332,8356747.06,6955913.45,-16.76,CA Certified P&L,Original Submitted,True,Medium,7257234.05,75760798.56,2278678.82,Verified - Positive,2024-09-29,Empanelled CA,2024-12-31
+2000333,10210433.84,13169816.11,28.98,ITR - 3 Years,e-Verified,True,Medium,8310224.49,,1570069.55,Verification Failed,2024-12-04,Empanelled CA,2024-12-31
+2000334,11218959.93,9801183.9,-12.64,Agriculture Income Proof,Original Submitted,False,Low,10584428.57,75591864.79,2563824.17,Verified - Positive,2024-09-08,Empanelled CA,2024-12-31
+2000335,11265719.68,11066774.37,-1.77,CA Certified P&L,Original Submitted,False,Low,10922081.75,,2447690.73,Verified - Positive,2024-02-26,Hunter Check,2024-12-31
+2000336,12459017.39,15176529.64,21.81,Agriculture Income Proof,Third Party Verified,True,Medium,10216453.35,55135778.49,1629471.58,Verified - Positive,2024-11-28,Empanelled CA,2024-12-31
+2000337,9629726.74,7343139.17,-23.75,Pension Certificate,e-Verified,True,Medium,9814465.13,84935073.94,1196816.86,Verified with Discrepancy,2024-12-03,Empanelled CA,2024-12-31
+2000338,6524099.0,5036350.87,-22.8,Pension Certificate,Original Submitted,True,Medium,5482823.39,,1108277.4,Verified with Discrepancy,2024-02-13,Empanelled CA,2024-12-31
+2000339,1467576.56,1067064.31,-27.29,CA Certified P&L,Third Party Verified,True,Medium,1461833.38,,391658.04,Verified - Positive,2024-09-26,Hunter Check,2024-12-31
+2000340,9005115.34,8665623.33,-3.77,Audited Balance Sheet,Third Party Verified,False,Low,6861456.95,,1508136.34,Verified with Discrepancy,2024-12-05,Empanelled CA,2024-12-31
+2000341,4529430.43,3677768.98,-18.8,Salary Slips - 3M,e-Verified,True,Medium,4467037.43,,923924.75,Refer to Credit,2024-05-14,Empanelled CA,2024-12-31
+2000342,6416627.42,4495764.06,-29.94,Audited Balance Sheet,GST API Pull,True,Medium,4864166.41,,977188.58,Verified - Positive,2024-06-07,Empanelled CA,2024-12-31
+2000343,11011013.09,12471881.46,13.27,Salary Slips - 3M,Third Party Verified,False,Low,9011415.75,,1797647.61,Unverified,2024-07-20,Internal Credit Team,2024-12-31
+2000344,12732472.53,12101160.71,-4.96,CA Certified P&L,Original Submitted,False,Low,10814259.38,,1513584.25,Verified - Positive,2024-10-07,Empanelled CA,2024-12-31
+2000345,851739.3,794148.66,-6.76,Pension Certificate,e-Verified,False,Low,841287.5,3927956.28,165373.36,Verified with Discrepancy,2024-08-01,Hunter Check,2024-12-31
+2000346,10390224.1,13176682.37,26.82,Salary Slips - 6M,Digitally Fetched - AA,True,Medium,8615457.07,,1310054.48,Verified with Discrepancy,2024-05-19,Internal Credit Team,2024-12-31
+2000347,5715803.49,7375090.0,29.03,Bank Statement - Income Proxy,e-Verified,True,Medium,5664897.52,,1274339.16,Unverified,2024-09-08,Internal Credit Team,2024-12-31
+2000348,1091048.9,1028958.22,-5.69,Form 16,Digitally Fetched - AA,False,Low,1174344.87,7889948.1,166455.52,Verified with Discrepancy,2024-01-17,Empanelled CA,2024-12-31
+2000349,12946823.25,13026423.34,0.61,Salary Slips - 6M,e-Verified,False,Low,11974146.24,,1986761.61,Verified with Discrepancy,2024-01-11,Empanelled CA,2024-12-31
+2000350,14772058.12,11787397.24,-20.2,Salary Slips - 6M,Original Submitted,True,Medium,14374458.58,139902051.85,2368177.01,Unverified,2024-12-19,Internal Credit Team,2024-12-31
+2000351,13937267.23,16651565.24,19.48,CA Certified P&L,ITD Portal,True,Medium,13277585.21,,3829679.87,Verified with Discrepancy,2024-01-18,Hunter Check,2024-12-31
+2000352,9647860.15,8498372.56,-11.91,Audited Balance Sheet,e-Verified,False,Low,9144764.24,,1395836.04,Verified - Positive,2024-11-27,Internal Credit Team,2024-12-31
+2000353,12646837.49,16341302.12,29.21,Salary Slips - 3M,e-Verified,True,Medium,10306893.45,,2617241.37,Verified - Positive,2024-11-05,Hunter Check,2024-12-31
+2000354,4808111.89,5833421.12,21.32,CA Certified P&L,Original Submitted,True,Medium,3934160.84,29077705.59,745128.95,Verified - Positive,2024-07-13,Empanelled CA,2024-12-31
+2000355,12230349.9,15853813.62,29.63,Form 16,Original Submitted,True,Medium,9496099.52,,2089522.7,Refer to Credit,2024-07-24,CERSAI,2024-12-31
+2000356,8835570.59,7919555.55,-10.37,Salary Slips - 6M,e-Verified,False,Low,8645607.45,,1101726.86,Verified with Discrepancy,2024-06-04,Internal Credit Team,2024-12-31
+2000357,2165563.56,2313408.3,6.83,Pension Certificate,GST API Pull,False,Low,2352029.8,,602846.63,Verified - Positive,2024-08-09,Empanelled CA,2024-12-31
+2000358,7952169.82,6871638.35,-13.59,Salary Slips - 6M,Digitally Fetched - AA,False,Low,8061348.25,,1225019.53,Verified with Discrepancy,2024-11-25,Account Aggregator,2024-12-31
+2000359,6084113.08,6929530.94,13.9,ITR - 3 Years,e-Verified,False,Low,6266985.41,35142005.01,879824.47,Verified with Discrepancy,2024-09-24,Empanelled CA,2024-12-31
+2000360,12861982.71,14712421.6,14.39,Pension Certificate,GST API Pull,False,Low,13557262.45,44529516.34,3073534.48,Unverified,2024-10-06,Internal Credit Team,2024-12-31
+2000361,5038494.37,3732286.89,-25.92,Pension Certificate,e-Verified,True,Medium,4977447.83,,1500766.05,Verification Failed,2024-05-09,Hunter Check,2024-12-31
+2000362,12148346.57,13349007.08,9.88,Salary Slips - 6M,Third Party Verified,False,Low,11004597.17,,1780993.46,Verified - Positive,2024-07-30,Internal Credit Team,2024-12-31
+2000363,193481.54,211010.23,9.06,ITR - 3 Years,ITD Portal,False,Low,152538.76,1159964.92,55166.6,Refer to Credit,2024-01-13,Internal Credit Team,2024-12-31
+2000364,798258.21,989919.48,24.01,Pension Certificate,Digitally Fetched - AA,True,Medium,628798.33,4219058.61,226011.31,Verified with Discrepancy,2024-11-03,Empanelled CA,2024-12-31
+2000365,11231008.81,13893691.58,23.71,Pension Certificate,e-Verified,True,Medium,11248645.22,,1434682.46,Verified with Discrepancy,2024-02-09,Internal Credit Team,2024-12-31
+2000366,1749596.25,1318447.23,-24.64,Pension Certificate,Original Submitted,True,Medium,1783979.11,,501776.05,Verification Failed,2024-06-14,Internal Credit Team,2024-12-31
+2000367,8646793.34,9348835.83,8.12,CA Certified P&L,Original Submitted,False,Low,7533894.85,85193882.41,2593864.77,Verified with Discrepancy,2024-09-03,Internal Credit Team,2024-12-31
+2000368,9054913.43,6353822.35,-29.83,Audited Balance Sheet,e-Verified,True,Medium,8935237.57,,1706443.21,Verified - Positive,2024-07-31,Internal Credit Team,2024-12-31
+2000369,9191777.53,11041987.67,20.13,Bank Statement - Income Proxy,e-Verified,True,Medium,7393025.41,53674319.53,1280969.18,Verified - Positive,2024-01-25,Empanelled CA,2024-12-31
+2000370,1697595.34,1689327.53,-0.49,Audited Balance Sheet,Original Submitted,False,Low,1861661.18,11305896.75,181852.6,Verified - Positive,2024-06-11,Hunter Check,2024-12-31
+2000371,2983950.67,3866962.46,29.59,Salary Slips - 6M,ITD Portal,True,Medium,2820653.55,,722801.76,Verified - Positive,2024-03-05,Account Aggregator,2024-12-31
+2000372,12371131.04,14132787.09,14.24,ITR - 3 Years,Original Submitted,False,Low,10622212.5,48104230.84,3231734.23,Verified - Positive,2024-11-14,Hunter Check,2024-12-31
+2000373,14712756.83,10768267.32,-26.81,Bank Statement - Income Proxy,Digitally Fetched - AA,True,Medium,14464459.01,,1726320.39,Verified - Positive,2024-11-13,Empanelled CA,2024-12-31
+2000374,10584612.11,12552963.22,18.6,Salary Slips - 3M,Third Party Verified,True,Medium,8181539.54,,1632275.96,Verification Failed,2024-07-29,CERSAI,2024-12-31
+2000375,8797800.6,7970068.52,-9.41,Audited Balance Sheet,e-Verified,False,Low,9591880.45,,2595930.06,Verification Failed,2024-03-10,Internal Credit Team,2024-12-31
+2000376,10316487.89,10059324.2,-2.49,Form 16,Digitally Fetched - AA,False,Low,8911652.35,53182155.71,3006784.59,Verification Failed,2024-12-21,Empanelled CA,2024-12-31
+2000377,13934567.04,10924293.66,-21.6,Salary Slips - 6M,Original Submitted,True,Medium,13408829.04,,3232543.86,Verified - Positive,2024-09-12,Empanelled CA,2024-12-31
+2000378,7277988.83,7343933.43,0.91,Form 16,Digitally Fetched - AA,False,Low,5773825.22,70909810.56,943766.86,Verified - Positive,2024-10-28,CERSAI,2024-12-31
+2000379,7423547.39,9593750.84,29.23,Form 16,e-Verified,True,Medium,6507557.54,,1226811.24,Verified - Positive,2024-06-27,Empanelled CA,2024-12-31
+2000380,4924820.51,4818993.51,-2.15,Audited Balance Sheet,e-Verified,False,Low,4972963.44,,523087.65,Verified with Discrepancy,2024-06-15,Hunter Check,2024-12-31
+2000381,785321.68,648882.33,-17.37,CA Certified P&L,Digitally Fetched - AA,True,Medium,859820.32,,172170.99,Verified - Positive,2024-08-13,CERSAI,2024-12-31
+2000382,6080873.64,4992233.71,-17.9,Salary Slips - 3M,Digitally Fetched - AA,True,Medium,4771902.15,42712105.78,700248.94,Verified - Positive,2024-02-28,Empanelled CA,2024-12-31
+2000383,5434548.19,5086013.69,-6.41,ITR - 3 Years,e-Verified,False,Low,4240293.29,,759043.68,Verified - Positive,2024-08-29,Empanelled CA,2024-12-31
+2000384,7258915.61,8034659.28,10.69,Salary Slips - 3M,Digitally Fetched - AA,False,Low,7200086.48,69932207.81,1954969.68,Verified - Positive,2024-11-28,Hunter Check,2024-12-31
+2000385,11637465.15,14444125.05,24.12,ITR - 3 Years,Digitally Fetched - AA,True,Medium,9357638.79,103787121.43,1806714.26,Verified with Discrepancy,2024-04-25,Empanelled CA,2024-12-31
+2000386,8118657.14,8088101.82,-0.38,Agriculture Income Proof,Original Submitted,False,Low,6609914.1,,897581.9,Verified - Positive,2024-03-13,Account Aggregator,2024-12-31
+2000387,9796489.89,12513910.61,27.74,ITR - 3 Years,Digitally Fetched - AA,True,Medium,10773113.92,,2074114.29,Verified - Positive,2024-10-25,Account Aggregator,2024-12-31
+2000388,9725492.82,6909291.48,-28.96,Bank Statement - Income Proxy,Third Party Verified,True,Medium,7296487.44,,1657608.59,Verified - Positive,2024-01-08,Empanelled CA,2024-12-31
+2000389,8921391.03,10546480.59,18.22,Form 16,Digitally Fetched - AA,True,Medium,8705782.57,30037900.94,2000757.98,Verified with Discrepancy,2024-11-20,CERSAI,2024-12-31
+2000390,1854636.88,1457675.92,-21.4,ITR - 3 Years,Original Submitted,True,Medium,1563762.93,9994775.4,305213.42,Verified with Discrepancy,2024-10-31,Internal Credit Team,2024-12-31
+2000391,2120277.89,2009866.77,-5.21,Bank Statement - Income Proxy,Third Party Verified,False,Low,1636131.89,17317416.37,462248.47,Unverified,2024-03-22,Internal Credit Team,2024-12-31
+2000392,7178372.41,8349742.92,16.32,Bank Statement - Income Proxy,Digitally Fetched - AA,True,Medium,6628554.06,,1867260.5,Verified - Positive,2024-07-10,Internal Credit Team,2024-12-31
+2000393,6582101.25,6330769.01,-3.82,CA Certified P&L,e-Verified,False,Low,5569307.41,31818495.75,815939.52,Verified - Positive,2024-03-31,Empanelled CA,2024-12-31
+2000394,5417503.55,4430664.1,-18.22,Salary Slips - 3M,Third Party Verified,True,Medium,4491096.96,,941554.11,Verified with Discrepancy,2024-02-17,Empanelled CA,2024-12-31
+2000395,5227932.94,5010938.12,-4.15,Pension Certificate,Original Submitted,False,Low,5138047.3,51572804.5,770601.92,Verified with Discrepancy,2024-02-12,Internal Credit Team,2024-12-31
+2000396,1103637.67,903039.62,-18.18,Audited Balance Sheet,e-Verified,True,Medium,962452.43,,207183.73,Unverified,2024-05-23,Internal Credit Team,2024-12-31
+2000397,3299205.18,3925036.92,18.97,Pension Certificate,Digitally Fetched - AA,True,Medium,3436859.37,,755803.84,Verified - Positive,2024-12-15,Account Aggregator,2024-12-31
+2000398,7268698.17,6716114.27,-7.6,Salary Slips - 6M,Original Submitted,False,Low,5580631.94,,1727160.27,Refer to Credit,2024-07-14,Internal Credit Team,2024-12-31
+2000399,1568088.98,1763740.54,12.48,ITR - 3 Years,Third Party Verified,False,Low,1244058.69,5485924.48,293821.25,Verified - Positive,2024-07-02,Empanelled CA,2024-12-31
